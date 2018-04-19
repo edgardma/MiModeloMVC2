@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiScaffoldingMVC", "MiScaff
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPrimeraAplicacion", "MiPrimeraAplicacion\MiPrimeraAplicacion.csproj", "{D77B0F4F-7647-47AA-A666-027B6AC24F8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiControladorMVC", "MiControladorMVC\MiControladorMVC.csproj", "{045D231B-0AE6-4E2B-9A1D-7476DCDDF8E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D77B0F4F-7647-47AA-A666-027B6AC24F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D77B0F4F-7647-47AA-A666-027B6AC24F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D77B0F4F-7647-47AA-A666-027B6AC24F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045D231B-0AE6-4E2B-9A1D-7476DCDDF8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045D231B-0AE6-4E2B-9A1D-7476DCDDF8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045D231B-0AE6-4E2B-9A1D-7476DCDDF8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045D231B-0AE6-4E2B-9A1D-7476DCDDF8E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
