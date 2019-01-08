@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EjemploAPI</name>
+    </assembly>
+    <members>
+        <member name="M:EjemploAPI.Controllers.ValuesController.Get">
+            <summary>
+            Permite devolver la lista de valores.
+            </summary>
+            <returns>Lista de valores</returns>
+        </member>
+        <member name="M:EjemploAPI.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Permite devolver un valore según el Id.
+            </summary>
+            <returns>Valor</returns>
+        </member>
+    </members>
+</doc>
