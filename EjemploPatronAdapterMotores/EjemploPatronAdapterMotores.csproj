@@ -47,6 +47,8 @@
     <Compile Include="MotorEconomico.cs" />
     <Compile Include="MotorComun.cs" />
     <Compile Include="MotorElectrico.cs" />
+    <Compile Include="MotorElectricoAdapter.cs" />
+    <Compile Include="Motores.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

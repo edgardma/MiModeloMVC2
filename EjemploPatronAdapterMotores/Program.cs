@@ -10,6 +10,14 @@ namespace EjemploPatronAdapterMotores
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("===========================================");
+            Motores.UsarMotorComun();
+            Console.WriteLine("===========================================");
+            Motores.UsarMotorEconomico();
+            Console.WriteLine("===========================================");
+            Motores.UsarMotorElectrico();
+            Console.WriteLine("===========================================");
+            Console.ReadKey();
         }
     }
 }
