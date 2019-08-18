@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLNETNetUnitv03", "MLNETNet
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLNETNetUnitv06", "MLNETNetUnitv06\MLNETNetUnitv06.csproj", "{94CBE7BD-B80A-4C1C-A147-8F958730B90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNETUniv07_ModelEval", "MLNETUniv07_ModelEval\MLNETUniv07_ModelEval.csproj", "{CBFF599A-516D-487F-BD90-623A64BB133D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLNETUniv07_ModelEval", "MLNETUniv07_ModelEval\MLNETUniv07_ModelEval.csproj", "{CBFF599A-516D-487F-BD90-623A64BB133D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNETUniv08_OnnxExport", "MLNETUniv08_OnnxExport\MLNETUniv08_OnnxExport.csproj", "{9DCE108D-6B4A-4A0E-AB50-235BC44A512D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CBFF599A-516D-487F-BD90-623A64BB133D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBFF599A-516D-487F-BD90-623A64BB133D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBFF599A-516D-487F-BD90-623A64BB133D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCE108D-6B4A-4A0E-AB50-235BC44A512D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCE108D-6B4A-4A0E-AB50-235BC44A512D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCE108D-6B4A-4A0E-AB50-235BC44A512D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCE108D-6B4A-4A0E-AB50-235BC44A512D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
